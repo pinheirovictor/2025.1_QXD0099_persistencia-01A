@@ -1,0 +1,13 @@
+2025-04-24 21:37:33,609 - INFO - Author created: id=0 name='string'
+2025-04-24 21:38:16,223 - INFO - Book created: id=0 title='string' author_id=0
+2025-04-24 21:38:39,703 - INFO - Books retrieved for author 0: [{'id': 0, 'title': 'string', 'author_id': 0}]
+2025-04-24 21:38:45,940 - INFO - Book deleted: 0
+2025-04-24 21:38:59,670 - INFO - Books retrieved for author 0: []
+2025-04-24 21:39:09,757 - INFO - Author updated: id=0 name='rrr'
+2025-04-25 14:33:17,391 - INFO - Autor criado: id=0 nome='string'
+2025-04-25 15:14:56,188 - INFO - Autor deletado: 0
+2025-04-25 15:16:35,142 - INFO - Autor criado: id=1 nome='Pedro'
+2025-04-25 15:17:34,427 - INFO - Livro criado: id=1 titulo='Senhor do Anéis' autor_id=1
+2025-04-25 15:18:00,334 - INFO - Livros recuperados para o autor 1: [{'id': 1, 'titulo': 'Senhor do Anéis', 'autor_id': 1}]
+2025-04-25 15:18:18,524 - INFO - Autor criado: id=2 nome='José'
+2025-04-25 15:18:22,748 - INFO - Livros recuperados para o autor 2: []
